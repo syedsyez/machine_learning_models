@@ -103,7 +103,7 @@ Support Vector Machine (SVM) is the overall winner because it achieved the highe
 -   
 ## 6. Project Structure
 
-ML_Model_assignment2/
+Machine_Learning_Models/
 ├── app.py
 ├── requirements.txt
 ├── README.md
